@@ -8,6 +8,7 @@ const projectData = [
       "../../images/tvwizard/2.png",
       "../../images/tvwizard/3.png",
     ],
+    github: "https://github.com/jaysville/tvwizard",
     id: "tvwizard",
   },
   {
@@ -20,6 +21,7 @@ const projectData = [
       "../../images/eat9ja/3.png",
       "../../images/eat9ja/4.png",
     ],
+    github: "https://github.com/jaysville/eat9ja",
     id: "eat9ja",
   },
   {
@@ -32,6 +34,7 @@ const projectData = [
       "../../images/weatherApp/3.png",
       "../../images/weatherApp/4.png",
     ],
+    github: "https://github.com/jaysville/JayWeatherApp",
     id: "weatherapp",
   },
   {
@@ -44,6 +47,7 @@ const projectData = [
       "../../images/museumofcandy/3.png",
       "../../images/museumofcandy/4.png",
     ],
+    github: "https://github.com/jaysville/JayMuseumOfCandy",
     id: "museumofcandy",
   },
   {
@@ -55,6 +59,7 @@ const projectData = [
       "../../images/scorekeeper/2.png",
       "../../images/scorekeeper/3.png",
     ],
+    github: "https://github.com/jaysville/JayScoreKeeper",
     id: "pingpong",
   },
 ];

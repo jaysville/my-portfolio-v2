@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <section id="projects">
       <h3 className="sectionHeading text-center">My Projects</h3>
-      {projectData.map(({ name, desc, link, images, id }) => {
+      {projectData.map(({ name, desc, link, images, github, id }) => {
         return (
           <div className="mb-3" key={id}>
             <div className="row bg-dark text-light py-2 border-1 border-light">
@@ -23,6 +23,12 @@ const Projects = () => {
                     className="btn btn-outline-info btn-lg projectBtn"
                   >
                     View {name}
+                  </a>
+                  <a
+                    className="btn btn-outline-info btn-lg projectBtn ms-3"
+                    href={github}
+                  >
+                    <i className="fa-brands fa-github"></i>
                   </a>
                 </div>
               </div>
