@@ -51,7 +51,7 @@ const projectData = [
     id: "museumofcandy",
   },
   {
-    name: "Ping Pong Score Keeper",
+    name: "Score Keeper",
     desc: '  An app to keep the scores of two ping pong players. Multiple game points can be selected. Made with HTML, <span class="text-warning">Bulma</span>, and JavaScript.',
     link: "https://jayscorekeeper.netlify.app/",
     images: [
