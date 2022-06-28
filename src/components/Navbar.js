@@ -8,7 +8,7 @@ const Navbar = () => {
         className="navbar navbar-expand-md navbar-dark bg-none"
       >
         <div className="container-fluid">
-          <a className="olaotan" href="#">
+          <a className="olaotan" href="!#">
             Olaotan
           </a>
           <button
