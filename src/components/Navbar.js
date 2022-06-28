@@ -8,7 +8,9 @@ const Navbar = () => {
         className="navbar navbar-expand-md navbar-dark bg-none"
       >
         <div className="container-fluid">
-          <a className="olaotan">Olaotan</a>
+          <a className="olaotan" href="/#">
+            Olaotan
+          </a>
           <button
             className="navbar-toggler hamburger"
             type="button"
