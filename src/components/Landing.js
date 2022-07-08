@@ -35,7 +35,7 @@ const Landing = () => {
         <div className="col-md-6">
           <div className="m-5">
             <img
-              src="https://pbs.twimg.com/profile_images/1509569263568367625/zA42y9df_400x400.jpg"
+              src="../../images/Landing_Image.jpg"
               alt=""
               className="img-fluid img-thumbnail"
             />
