@@ -38,6 +38,20 @@ const projectData = [
     id: "weatherapp",
   },
   {
+    name: "Product Record Keeper",
+    desc: "A minimalistic CRUD app built with <span className='text-warning'>ReactJs</span> for the client-side. It lets users upload products of 3 types which can be selected with a type switcher; Book, Furniture and DVD-disk. Users can also delete one or more products by checking their checkboxes and clicking on the mass delete button. It's backend was implemented with <span className='text-warning'>PHP</span> for the server side and <span className='text-warning'>MySQL</span> for the database.",
+    link: "https://jay-scandiweb-test.netlify.app",
+    images: [
+      "../../images/projectrecordkeeper/1.png",
+      "../../images/projectrecordkeeper/2.png",
+      "../../images/projectrecordkeeper/3.png",
+      "../../images/projectrecordkeeper/4.png",
+      "../../images/projectrecordkeeper/5.png",
+    ],
+    github: "https://github.com/jaysville/scandiweb-test-final",
+    id: "projectrecordkeeper",
+  },
+  {
     name: "Museum Of Candy",
     desc: ' A landing page for a candy museum. Made with <span class="text-warning">Bootstrap.</span>',
     link: "https://jaymuseumofcandy.netlify.app/",
