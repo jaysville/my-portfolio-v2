@@ -1,7 +1,21 @@
 const projectData = [
   {
+    name: "Jay Stores",
+    desc: 'Jay Stores is a minimalistic e-commerce site with pseudo-products. It was built with <span class="text-warning">ReactJs</span>. For now, users can only shop one category at a time.',
+    link: "https://jays-stores.netlify.app/",
+    images: [
+      "../../images/jaystores/1.png",
+      "../../images/jaystores/2.png",
+      "../../images/jaystores/3.png",
+      "../../images/jaystores/4.png",
+      "../../images/jaystores/5.png",
+    ],
+    github: "https://github.com/jaysville/the-jaysville-place",
+    id: "jaystores",
+  },
+  {
     name: "TV Wizard",
-    desc: 'TvWizard is a tv show search app that lets an authenticated user to search tv shows. <br> Made with <span class="text-warning"> NodeJs</span> and <span className="text-warning"> ExpressJs.</span> I got my hands dirty working with APIs and JSON.',
+    desc: 'TvWizard is a tv show search app that lets an authenticated user to search tv shows. <br> Made with <span class="text-warning"> NodeJs</span> and <span class="text-warning"> ExpressJs.</span> I got my hands dirty working with APIs and JSON.',
     link: "https://tvwizard.herokuapp.com",
     images: [
       "../../images/tvwizard/1.png",
@@ -13,7 +27,7 @@ const projectData = [
   },
   {
     name: "Eat9ja",
-    desc: 'Eat9ja is a restaurant rating app. It allows authenticated users to experience full CRUD functionality. Users can create, edit, delete and view restaurants.They can also leave reviews and star ratings on restaurants posted by other users. The restaurants are displayed on a cluster map all over Nigeria. It was made with <span className="text-warning">NodeJs</span>, <span className="text-warning">ExpressJs</span>, <span className="text-warning">Bootstrap</span> and uses <span className="text-warning">MongoDB</span',
+    desc: 'Eat9ja is a restaurant rating app. It allows authenticated users to experience full CRUD functionality. Users can create, edit, delete and view restaurants.They can also leave reviews and star ratings on restaurants posted by other users. The restaurants are displayed on a cluster map all over Nigeria. It was made with <span class="text-warning">NodeJs</span>, <span class="text-warning">ExpressJs</span>, <span classN="text-warning">Bootstrap</span> and uses <span class="text-warning">MongoDB</span',
     link: "https://eat9ja.herokuapp.com",
     images: [
       "../../images/eat9ja/1.png",
@@ -39,7 +53,7 @@ const projectData = [
   },
   {
     name: "Product Record Keeper",
-    desc: "A minimalistic CRUD app built with <span className='text-warning'>ReactJs</span> for the client-side. It lets users upload products of 3 types which can be selected with a type switcher; Book, Furniture and DVD-disk. Users can also delete one or more products by checking their checkboxes and clicking on the mass delete button. It's backend was implemented with <span className='text-warning'>PHP</span> for the server side and <span className='text-warning'>MySQL</span> for the database.",
+    desc: "A minimalistic CRUD app built with <span class='text-warning'>ReactJs</span> for the client-side. It lets users upload products of 3 types which can be selected with a type switcher; Book, Furniture and DVD-disk. Users can also delete one or more products by checking their checkboxes and clicking on the mass delete button. It's backend was implemented with <span class='text-warning'>PHP</span> for the server side and <span class='text-warning'>MySQL</span> for the database.",
     link: "https://jay-scandiweb-test.netlify.app",
     images: [
       "../../images/projectrecordkeeper/1.png",
