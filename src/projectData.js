@@ -1,5 +1,18 @@
 const projectData = [
   {
+    name: "Electric Screen",
+    desc: 'Electric screen is a movie and tv show streaming app built with <span class="text-warning">ReactJs</span>. Users can search movies , add movies to their favorites list, and view movie info. The app state was managed by <span class="text-warning">Redux Toolkit</span> and major styling done with <span class="text-warning">Styled Components</span>. ',
+    link: "https://jay-electric-screens.netlify.app",
+    images: [
+      "../../images/electricscreen/1.png",
+      "../../images/electricscreen/2.png",
+      "../../images/electricscreen/3.png",
+      "../../images/electricscreen/4.png",
+    ],
+    github: "https://github.com/jaysville/electric-sceens",
+    id: "electricscreen",
+  },
+  {
     name: "Jay Stores",
     desc: 'Jay Stores is a minimalistic e-commerce site with pseudo-products. It was built with <span class="text-warning">ReactJs</span>. For now, users can only shop one category at a time.',
     link: "https://jays-stores.netlify.app/",
