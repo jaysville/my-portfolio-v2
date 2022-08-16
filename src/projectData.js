@@ -14,7 +14,7 @@ const projectData = [
   },
   {
     name: "Jay Stores",
-    desc: 'Jay Stores is a minimalistic e-commerce site with pseudo-products. It was built with <span class="text-warning">ReactJs</span>. For now, users can only shop one category at a time.',
+    desc: 'Jay Stores is a minimalistic e-commerce site with pseudo-products. It was built with <span class="text-warning">ReactJs</span>.',
     link: "https://jays-stores.netlify.app/",
     images: [
       "../../images/jaystores/1.png",
