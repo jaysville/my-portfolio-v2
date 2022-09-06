@@ -1,5 +1,19 @@
 const projectData = [
   {
+    name: "Offerlines",
+    desc: 'An e-commerce web app built with <span class="text-warning">NextJs</span>, <span class="text-warning">Redux</span> ,<span class="text-warning">Styled Components</span>, <span class="text-warning">Material UI</span>, and  <span class="text-warning">Bootstrap</span>.',
+    link: "https://offerlines.vercel.app/",
+    images: [
+      "../../images/offerlines/1.png",
+      "../../images/offerlines/2.png",
+      "../../images/offerlines/3.png",
+      "../../images/offerlines/4.png",
+      "../../images/offerlines/5.png",
+    ],
+    github: "https://github.com/jaysville/offerlines",
+    id: "offerlines",
+  },
+  {
     name: "Electric Screen",
     desc: 'Electric screen is a movie and tv show streaming app built with <span class="text-warning">ReactJs</span>. Users can search movies , add movies to their favorites list, and view movie info. The app state was managed by <span class="text-warning">Redux Toolkit</span> and major styling done with <span class="text-warning">Styled Components</span>. ',
     link: "https://jay-electric-screens.netlify.app",
@@ -90,18 +104,6 @@ const projectData = [
     ],
     github: "https://github.com/jaysville/JayMuseumOfCandy",
     id: "museumofcandy",
-  },
-  {
-    name: "Score Keeper",
-    desc: '  An app to keep the scores of two ping pong players. Multiple game points can be selected. Made with HTML, <span class="text-warning">Bulma</span>, and JavaScript.',
-    link: "https://jayscorekeeper.netlify.app/",
-    images: [
-      "../../images/scorekeeper/1.png",
-      "../../images/scorekeeper/2.png",
-      "../../images/scorekeeper/3.png",
-    ],
-    github: "https://github.com/jaysville/JayScoreKeeper",
-    id: "pingpong",
   },
 ];
 
