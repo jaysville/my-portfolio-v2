@@ -50,7 +50,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <a
-                  href="https://drive.google.com/file/d/1Pwon0jSb5USQNKX62M2_ozTYIY9JK7Rq/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1vA884_2qbCCj-pOoeULx54_FkfO8G511/view?usp=share_link"
                   className="nav-link"
                 >
                   My Resume
